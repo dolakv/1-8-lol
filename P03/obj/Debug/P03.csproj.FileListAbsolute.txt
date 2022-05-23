@@ -1,0 +1,10 @@
+G:\PRG\P02\P03\bin\Debug\P03.exe.config
+G:\PRG\P02\P03\bin\Debug\P03.exe
+G:\PRG\P02\P03\bin\Debug\P03.pdb
+G:\PRG\P02\P03\obj\Debug\P03.csprojAssemblyReference.cache
+G:\PRG\P02\P03\obj\Debug\P03.Form1.resources
+G:\PRG\P02\P03\obj\Debug\P03.Properties.Resources.resources
+G:\PRG\P02\P03\obj\Debug\P03.csproj.GenerateResource.cache
+G:\PRG\P02\P03\obj\Debug\P03.csproj.CoreCompileInputs.cache
+G:\PRG\P02\P03\obj\Debug\P03.exe
+G:\PRG\P02\P03\obj\Debug\P03.pdb

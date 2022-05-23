@@ -1,0 +1,10 @@
+G:\PRG\P02\metody\bin\Debug\metody.exe.config
+G:\PRG\P02\metody\bin\Debug\metody.exe
+G:\PRG\P02\metody\bin\Debug\metody.pdb
+G:\PRG\P02\metody\obj\Debug\metody.csprojAssemblyReference.cache
+G:\PRG\P02\metody\obj\Debug\metody.Form1.resources
+G:\PRG\P02\metody\obj\Debug\metody.Properties.Resources.resources
+G:\PRG\P02\metody\obj\Debug\metody.csproj.GenerateResource.cache
+G:\PRG\P02\metody\obj\Debug\metody.csproj.CoreCompileInputs.cache
+G:\PRG\P02\metody\obj\Debug\metody.exe
+G:\PRG\P02\metody\obj\Debug\metody.pdb

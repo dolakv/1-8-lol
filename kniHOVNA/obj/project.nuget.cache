@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qcMu3wlb7uBGPYouDJ+k01T9e2zu7C7GiY0dbjyijm33Q/0fgGF5LyfZfRyQI2Aoh+KRqkXINBVjl4t8OlPAQg==",
+  "success": true,
+  "projectFilePath": "G:\\PRG\\P02\\kniHOVNA\\matematika.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dolakv.05\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dolakv.05\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
